@@ -4,6 +4,7 @@
 
 This tutorial will guide you in creating a NextJS app with the [Carbon Design System](https://www.carbondesignsystem.com/). We’ll teach you the ins and outs of using Carbon React components, while introducing web development best practices along the way.
 
+
 Get started by visiting the [tutorial instructions](https://carbondesignsystem.com/developing/next-tutorial/overview/).
 
 ## Create NextJS 13 app
@@ -19,7 +20,7 @@ yarn create next-app
 ✔ Would you like to use App Router? (recommended) … No / *Yes
 ✔ Would you like to customize the default import alias? … *No / Yes
 
-cd carbon-tutorial-next
+cd carbon-tutorial-nextjs
 yarn dev
 ```
 
